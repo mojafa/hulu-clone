@@ -1,3 +1,13 @@
+VISIT LIVE WEBSITE https://hulu2-0-nine.vercel.app/.
+
+To use these clone the repo, then crete .env.local file in your root project folder  and add the following line  API_KEY=your tmdb api.
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
