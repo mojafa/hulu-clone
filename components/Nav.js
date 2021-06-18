@@ -16,7 +16,7 @@ function Nav() {
                         transform
                         hover:scale-125
                         hover:text-white
-                        active:text-red-500
+                        active:text-green-500
                         "
           >
             {title}
